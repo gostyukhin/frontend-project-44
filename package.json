@@ -4,7 +4,6 @@
   "type": "module",
   "description": "[![Actions Status](https://github.com/gostyukhin/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/gostyukhin/frontend-project-44/actions)",
   "main": "index.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +11,8 @@
   "license": "ISC",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
-
-
