@@ -6,6 +6,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/232c0a062de611a160f9/maintainability)](https://codeclimate.com/github/gostyukhin/frontend-project-44/maintainability)
 
-# ссылка на аскинему
+# ссылка на аскинему 
 
-https://asciinema.org/a/EuPI8Qri5WLpxJa2495TrLzG6
+https://asciinema.org/a/WsOTmQYkeaPyyT4PspPtfQC1A
