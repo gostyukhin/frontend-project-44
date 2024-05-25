@@ -8,4 +8,4 @@
 
 # ссылка на аскинему 
 
-https://asciinema.org/a/WsOTmQYkeaPyyT4PspPtfQC1A
+https://asciinema.org/a/62lWE2nIxuVQtjCJnUMpI0m8o
